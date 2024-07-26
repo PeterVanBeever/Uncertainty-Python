@@ -1,4 +1,4 @@
-
+             
 # Tutorial
 
 We will solve the following problem using a computer to estimate the expected
